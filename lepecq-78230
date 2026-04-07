@@ -1,0 +1,14 @@
+Site Déménageur Le Pecq 78230
+
+Site web professionnel pour Yvelines Group Déménagement - Le Pecq 78230.
+
+## Contenu
+- Page d'accueil optimisée SEO pour le déménagement à Le Pecq
+- Formulaire de devis en ligne
+- Informations sur les services, tarifs et assurances
+
+## Déploiement
+Le site est automatiquement déployé sur OVH via GitHub Actions FTP à chaque push sur la branche main.
+
+## URL
+https://demenagement-lepecq-78230.fr
